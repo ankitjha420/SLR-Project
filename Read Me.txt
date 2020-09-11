@@ -1,0 +1,10 @@
+Tools & libraries used in the project-
+a) Jupyter Labs
+b) Numpy
+c) Pandas
+d) Matplotlib
+e) Scikit Learn
+
+Language used - Python 3
+
+
